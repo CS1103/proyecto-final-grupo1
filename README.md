@@ -1,2 +1,19 @@
-Hi There
+Nombre del Proyecto: HEX!
 
+Resumen del juego:
+
+HEX es un juego de tablero 10x10 compuestos en hexágonos para 2 jugadores. El objetivo es formar un camino desde un extremo del tablero hacia su opuesto. El camino se crea con cada turno de los jugadores, quienes seleccionan un hexágono que se pintará de un color (rojo y azul para cada jugador respectivamente). Si durante el transcurso del juego, ya no es posible formar algún camino para ambos jugadores, el juego terminará en empate.
+
+Resumen del Programa:
+
+El programa tiene varias ventanas:
+    -Menu(): Para iniciar juego, ver las intrucciones o salir.
+    -Tablero(): Para jugar el juego en sí.
+    -Instrucciones(): Para ver las instrucciones.
+
+Cuando iniciamos partida: 
+    -El jugador se enfrentará a un bot.
+    -El color del jugador será rojo y del bot el azul.
+    -El jugador atacará de arriba a abajo y el bot de izquierda a derecha.
+    -Una vez uno de los caminos es terminado, se acaba el juego, dando el veredicto final.
+    
