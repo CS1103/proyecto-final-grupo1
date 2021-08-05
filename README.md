@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/68178763/128429704-d3b266dd-5448-4631-ad76-13f07cba481f.png)
+
 Nombre del Proyecto: HEX!
 
 Resumen del juego:
