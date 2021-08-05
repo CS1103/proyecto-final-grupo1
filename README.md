@@ -21,6 +21,7 @@ El programa tiene varias ventanas:
 
 -Resultado(): Al detectar un ganador, imprime en la pantalla si se ha ganado o perdido
 
+
 Cuando iniciamos partida: 
 
 -El jugador se enfrentará a un bot.
