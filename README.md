@@ -9,9 +9,13 @@ HEX es un juego de tablero 10x10 compuestos en hexágonos para 2 jugadores. El o
 Resumen del Programa:
 
 El programa tiene varias ventanas:
+
 -Menu(): Para iniciar juego, ver las intrucciones o salir.
+
 -Tablero(): Para jugar el juego en sí.
+
 -Instrucciones(): Para ver las instrucciones.
+
 -Resultado(): Al detectar un ganador, imprime en la pantalla si se ha ganado o perdido
 
 Cuando iniciamos partida: 
