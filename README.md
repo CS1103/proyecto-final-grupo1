@@ -38,9 +38,8 @@ Cuando iniciamos partida:
     
 > Fuentes Bibliográficas
 
-FutaAlice (2018). FutaHex [Github Repository]. Recuperado de:
 https://github.com/FutaAlice/FutaHex2
 
 https://web.mit.edu/sp.268/www/hex-notes.pdf
 
-https://www.youtube.com/watch?v=8JNP8T7kCW8
+Laredo, J.[Juan Diego Laredo](5/08/2021).Proyecto POO [Archivo de video]. Youtube. https://www.youtube.com/watch?v=h_eT-6vLFRA.
