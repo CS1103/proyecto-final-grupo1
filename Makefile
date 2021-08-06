@@ -6,7 +6,7 @@ compile:
 	g++ -c *.cpp
 
 link:
-	g++ *.o -o main -lsfml-graphics -lsfml-window -lsfml-system
+	g++ *.o -o main -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
 clean:
 	del *.o
