@@ -22,6 +22,8 @@ El programa tiene varias ventanas:
 
 > Video Explicatorio
 
+https://www.youtube.com/watch?v=h_eT-6vLFRA
+
 > Resumen del Juego
 
 Cuando iniciamos partida: 
