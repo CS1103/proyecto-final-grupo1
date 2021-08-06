@@ -22,6 +22,8 @@ El programa tiene varias ventanas:
 
 > Video Explicatorio
 
+> Resumen del Juego
+
 Cuando iniciamos partida: 
 
 -El jugador se enfrentará a un bot.
