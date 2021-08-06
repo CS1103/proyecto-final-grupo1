@@ -42,4 +42,4 @@ https://github.com/FutaAlice/FutaHex2
 
 https://web.mit.edu/sp.268/www/hex-notes.pdf
 
-Laredo, J.[Juan Diego Laredo] (2021/08/05).Proyecto POO [Archivo de video]. Youtube. https://www.youtube.com/watch?v=h_eT-6vLFRA.
+Laredo, J.[Juan Diego Laredo] (2021/08/05).Proyecto POO [Archivo de video]. Recuperado de: https://www.youtube.com/watch?v=h_eT-6vLFRA.
