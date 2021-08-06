@@ -36,3 +36,10 @@ Cuando iniciamos partida:
 
 -Una vez uno de los caminos es terminado, se acaba el juego, dando el veredicto final.
     
+> Fuentes Bibliográficas
+
+https://github.com/FutaAlice/FutaHex2
+
+https://web.mit.edu/sp.268/www/hex-notes.pdf
+
+https://www.youtube.com/watch?v=8JNP8T7kCW8
