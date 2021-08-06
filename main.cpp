@@ -67,7 +67,7 @@ void tablero(sf::RenderWindow *window)
     }
     buffer.play();
     buffer.setVolume(3.f);
-    sf::CircleShape player(50.f, 6);
+    //sf::CircleShape player(50.f, 6);
     
     //player.setOrigin(50.f, 50.f);
     //vector<Hexagon> hexaVector;
@@ -202,7 +202,7 @@ void tablero(sf::RenderWindow *window)
                     }
                 }
         }
-        window->draw(player);
+        //window->draw(player);
         window->display();
     }
 }
@@ -280,7 +280,7 @@ int menu(sf::RenderWindow *window,int x, int y){
                             veracidad = 2;
                             break;
                         case 3:
-                            window->close();
+                            veracidad = 3;
                             break;                            
                         default:
                             break;
@@ -292,7 +292,7 @@ int menu(sf::RenderWindow *window,int x, int y){
                         break;
                 
                 case sf::Event::Closed:
-                    window->close();
+                    veracidad = 3;
                     break;
                 case sf::Event::Resized:
                     //cout << "New window width:" << event.size.width << ". New window height:" << event.size.height << endl;
@@ -331,6 +331,7 @@ int main()
             veracidad = resultado(&window,resultados,x,y);
         }
     }
+}
 }
 
 
