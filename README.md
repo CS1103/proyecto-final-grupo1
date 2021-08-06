@@ -40,8 +40,7 @@ Cuando iniciamos partida:
 
 > Autores
 
-| <a target="_blank">**Mateo Nasse**</a> | <a target="_blank">**Juan Diego Laredo**</a> |<a target="_blank">**Gianmarco Humpiri**</a> |
-| :---: | :---:| :---:| :---:|
+| <a target="_blank">**Mateo Nasse**</a> | <a target="_blank">**Juan Diego Laredo**</a> | <a target="_blank">**Gianmarco Humpiri**</a> |
 
 > Fuentes Bibliográficas
 
