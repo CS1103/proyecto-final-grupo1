@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/68178763/128429704-d3b266dd-5448-4631-ad76-13f07cba481f.png)
+
 # HEX!
 
 
@@ -23,6 +24,7 @@ El programa tiene varias ventanas:
 > Video Explicatorio
 
 https://www.youtube.com/watch?v=h_eT-6vLFRA
+![PHOTO-2021-08-05-20-59-17](https://user-images.githubusercontent.com/68178763/128444532-5241084f-355a-4f4d-880d-f673b1d83fa2.jpg)
 
 > Resumen del Juego
 
