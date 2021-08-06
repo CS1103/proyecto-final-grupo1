@@ -37,7 +37,12 @@ Cuando iniciamos partida:
 -El jugador atacará de arriba a abajo y el bot de izquierda a derecha.
 
 -Una vez uno de los caminos es terminado, se acaba el juego, dando el veredicto final.
-    
+
+> Autores
+
+| <a target="_blank">**Mateo Nasse**</a> | <a target="_blank">**Juan Diego Laredo**</a> |<a target="_blank">**Gianmarco Humpiri**</a> |
+| :---: | :---:| :---:| :---:|
+
 > Fuentes Bibliográficas
 
 FutaAlice (2018). FutaHex [Github Repository]. Recuperado de:https://github.com/FutaAlice/FutaHex2
